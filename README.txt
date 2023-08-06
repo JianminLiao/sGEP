@@ -1,0 +1,2 @@
+Quick demos: demo_sPCA.m for sparse Principal Component Analysis, and demo_sCCA.m for sparse Canonical Correlation Analysis
+The proposed algorithms are SA_TPM.m and SA_PGSA_ML.m. The associated files are TPower_modified.m, SGEP_PGSA_M.m, sa_partial.m and sa_partial_SGEP.m.
