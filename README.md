@@ -1,4 +1,4 @@
-# Project Title
+# A Successive Two-stage Method for Sparse Generalized Eigenvalue Problems
 
 ## Quick Demos 
 
