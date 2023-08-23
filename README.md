@@ -29,6 +29,16 @@ The following associated files are required to run the algorithms:
 - `sa_partial.m`
 - `sa_partial_SGEP.m`
 
+## Compared Algorithms
+
+The following files are implementations of the compared algorithms:
+
+- `cwPCA.m'
+- `FullPathData.m'
+- `optimal.m'
+- `SGEP_IFTRR.m'
+- `TPower_SPCA.m'
+
 ## To reproduce all numerical results presented in the paper
 
 Run the corresponding .m files to reproduce the numerical results in the ``Numerical Experiments in the Paper'' folder. The numerical experiments in the paper are repeated many times to provide meaningful results, which implies that the experiments typically take much longer time than quick demos.
