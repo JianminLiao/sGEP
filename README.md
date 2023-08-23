@@ -1,5 +1,5 @@
-# A Successive Two-stage Method for Sparse Generalized Eigenvalue Problems
-### The source code is provided the purpose of providing reproducibility information for the paper.
+### The source code is provided the purpose of providing reproducibility information for the paper:
+A Successive Two-stage Method for Sparse Generalized Eigenvalue Problems
 ## Authors: 
 - Qia Li, School of Computer Science and Engineering, Guangdong Province Key Laboratory of Computational Science, Sun Yat-sen University, Guangzhou, Guangdong Province 510275, P.R.China (liqia@mail.sysu.edu.cn);
 - Jianmin Liao, Department of Mathematics, Syracuse University, Syracuse, NY 13244, USA (jliao21@syr.edu);
