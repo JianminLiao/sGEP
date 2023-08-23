@@ -31,4 +31,4 @@ The following associated files are required to run the algorithms:
 
 ## To reproduce all numerical results presented in the paper
 
-Run the files named `Generate_XXX.m` under the folder `Numerical Experiments in the Paper` to reproduce the numerical results in the ``Numerical Experiments in the Paper'' folder. The numerical experiments in the paper are repeated many times to provide meaningful results, which implies that the experiments typically take much longer time than quick demos.
+Run the files named `Generate_XXX.m` under the folder `Numerical Experiments in the Paper` to reproduce the numerical results presented in the paper. The numerical experiments in the paper are repeated many times to provide meaningful results, which implies that the experiments typically take much longer time than quick demos.
