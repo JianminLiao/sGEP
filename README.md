@@ -31,13 +31,17 @@ The following associated files are required to run the algorithms:
 
 ## Compared Algorithms
 
-The following files are implementations of the compared algorithms:
+The following files are associated with the compared algorithms:
 
 - `cwPCA.m'
 - `FullPathData.m'
 - `optimal.m'
 - `SGEP_IFTRR.m'
 - `TPower_SPCA.m'
+- `TRF_modified.m'
+- `TPower.m'
+- `maxeig.m'
+- `myProcessOptions.m'
 
 ## To reproduce all numerical results presented in the paper
 
